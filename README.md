@@ -4,7 +4,7 @@ This project lets the user search any date for the NASA Astronomy Picture of the
 
 ## How It's Made:
 
-**Tech used:**: HTML, CSS, and JavaScript
+**Tech used:** HTML, CSS, and JavaScript
 
 I used html for the markup, css for the styling, andI used Javascript for the logic of this project.
 
